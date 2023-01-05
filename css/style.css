@@ -1,0 +1,13 @@
+body {
+
+background-image:url("../images/bg-main.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+
+font-family:'Courier New';
+color: aliceblue;
+text-align: center;
+}
